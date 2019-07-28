@@ -1,5 +1,6 @@
 # VideoStreamWebServer
 A simple web server build on Node.js to view videos.
+The purpose of this project is for me to view my video files with any device; especially Anime.
 
 # How to setup
 1. Install Node.js
