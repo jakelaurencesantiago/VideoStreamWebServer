@@ -15,6 +15,10 @@ The purpose of this project is for me to view my video files with any device; es
 
 # TODO
 1. Next, previous video
-2. Search
-3. Categorize by video title
-4. UI improvements
+2. Save/load last watched with time
+3. Video thumbnail
+4. video onclick play/pause
+5. Categorized video
+6. UI improvements (interactive)
+7. video list improvement
+8. Back button
