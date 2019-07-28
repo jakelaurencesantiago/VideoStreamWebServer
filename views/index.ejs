@@ -1,0 +1,11 @@
+<html>
+<head>
+	<title>Anime Web Server</title>
+</head>
+<body>
+	<h3>Video List</h3>
+	<% files.forEach(file => { %>
+		<p><a href="/video/<%= file %>"><%= file %></a></p>
+	<% })%>
+</body>
+</html>
