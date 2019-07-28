@@ -1,12 +1,12 @@
 {
   "name": "aniweb",
   "version": "1.0.0",
-  "description": "",
+  "description": "anime video web server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jake Laurence Santiago",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.2",
