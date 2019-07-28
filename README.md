@@ -5,7 +5,7 @@ A simple web server build on Node.js to view videos.
 1. Install Node.js
 2. Place the files in a directory of your choice
 3. Open a terminal, navigate to the project directory
-4. Run the following scripts:
+4. Install required npm packages:
  > npm install express ejs
 5. Start the web server to test
  > node index.js
